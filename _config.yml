@@ -163,8 +163,9 @@ plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
 
-livereload: true
+livereload: false
 check_links: true
+no-source-map: true
 
 devdocs_url: https://devdocs.magento.com
 
