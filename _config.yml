@@ -1,12 +1,12 @@
 # This file sets default project configuration for the User Guides website generator
 # See default Jekyll configuration at https://jekyllrb.com/docs/configuration/default/
 
-title: Adobe Commerce 2.4 User Guide
+title: Gerflor Portal 2.4 User Guide
 
 description: Merchant-focused documentation for both Adobe Commerce and Magento Open Source
-logo: Commerce User Guide
+logo: Gerflor Portal User Guide
 baseurl: /user-guide
-url: "https://docs.magento.com"
+url: "http://127.0.0.1:4000"
 destination: _site/user-guide
 
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
@@ -167,7 +167,7 @@ livereload: false
 check_links: true
 no-source-map: true
 
-devdocs_url: https://devdocs.magento.com
+# devdocs_url: https://devdocs.magento.com
 
 # This addition fixes a bug in the copy.js of devdocs-theme
 #
