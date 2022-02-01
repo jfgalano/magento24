@@ -1,12 +1,12 @@
 # Adobe Merchant Documentation
 
-Welcome! This site contains the latest [Adobe Commerce merchant documentation](https://docs.magento.com/user-guide/) for ongoing Adobe Commerce and Magento Open Source 2.4.x and 2.3.x releases. For additional information, see our [Contribution Guide](https://github.com/magento/merchdocs/blob/master/.github/CONTRIBUTING.md) and [Wiki](https://github.com/magento/merchdocs/wiki).
+Welcome! This site contains the latest [Adobe Commerce merchant documentation](https://docs.magento.com/user-guide/) for ongoing Adobe Commerce and Magento Open Source 2.4.x and 2.3.x releases. For additional information, see our [Contribution Guide](https://github.com/jfgalano/magento24/blob/master/.github/CONTRIBUTING.md) and [Wiki](https://github.com/jfgalano/magento24/wiki).
 
 ## Contribute
 
 Our goal is to provide the Adobe Community with comprehensive and quality user documentation. We believe that to accomplish that goal we need experts from the community to share their knowledge with us and each other. We are thankful to all of our contributors for improving Adobe documentation.
 
-Depending on your level of comfort, you may [clone this repo](#install-merchdocs), [make your changes](https://github.com/magento/merchdocs/wiki/Writing-Content#write-like-a-developer), and [build it locally](#build-locally), or [make changes directly in the GitHub user interface (UI)](https://github.com/magento/merchdocs/wiki/Writing-Content#write-in-github).
+Depending on your level of comfort, you may [clone this repo](#install-merchdocs), [make your changes](https://github.com/jfgalano/magento24/wiki/Writing-Content#write-like-a-developer), and [build it locally](#build-locally), or [make changes directly in the GitHub user interface (UI)](https://github.com/jfgalano/magento24/wiki/Writing-Content#write-in-github).
 
 After a pull request is submitted, it goes through an approval process to ensure grammatical and technical accuracy. After it is merged by the writing team, the changes are generally live on the site within an hour.
 
@@ -17,7 +17,7 @@ This site is built by [Jekyll](https://jekyllrb.com/), which is an open-source t
 You can build this site locally in the following ways:
 
 - [Installing the project dependencies locally](#build-locally) (Mac, Linux)
-- [Build MerchDocs in Windows](https://github.com/magento/merchdocs/wiki/Build-Merchant-Documentation-in-Windows) (Windows 7 & 10)
+- [Build MerchDocs in Windows](https://github.com/jfgalano/magento24/wiki/Build-Merchant-Documentation-in-Windows) (Windows 7 & 10)
 
 ## Build locally
 
@@ -55,7 +55,7 @@ Once you have completed preparing your environment, you can build locally and pr
    You will see the commands called by the rake task and the corresponding output. Each command is typically highlighted with the magenta color:
 
    ```terminal
-   ~/magento/merchdocs (master)$ rake preview
+   ~/jfgalano/magento24 (master)$ rake preview
    Install gems listed in the Gemfile: $ bundle install
    Using rake 13.0.1
    Using public_suffix 4.0.3
@@ -64,8 +64,8 @@ Once you have completed preparing your environment, you can build locally and pr
    Use `bundle info [gemname]` to see where a bundled gem is installed.
    Installed!
    Cleaning after the last site generation: $ bundle exec jekyll clean
-   Configuration file: /Users/user/magento/merchdocs/_config.yml
-             Cleaner: Removing /Users/user/magento/merchdocs/_site...
+   Configuration file: /Users/user/jfgalano/magento24/_config.yml
+             Cleaner: Removing /Users/user/jfgalano/magento24/_site...
              Cleaner: Removing src/.jekyll-metadata...
              Cleaner: Removing src/.jekyll-cache...
              Cleaner: Nothing to do for .sass-cache.
@@ -75,13 +75,13 @@ Once you have completed preparing your environment, you can build locally and pr
                                    --livereload \
                                    --trace \
                                    --plugins _plugins,_checks
-   Configuration file: /Users/user/magento/merchdocs/_config.yml
+   Configuration file: /Users/user/jfgalano/magento24/_config.yml
    Theme Config file: /Users/user/.rvm/gems/ruby-2.6.5/bundler/gems/merchdocs-theme-e1a4ff6880d5/ _config.yml
-               Source: /Users/user/magento/merchdocs/src
-         Destination: /Users/user/magento/merchdocs/_site
+               Source: /Users/user/jfgalano/magento24/src
+         Destination: /Users/user/jfgalano/magento24/_site
    Incremental build: enabled
          Generating...
-   Running ["ImageCheck", "HtmlCheck", "LinkCheck", "ScriptCheck",  "LinkChecker::DoubleSlashCheck"] on ["/Users/user/magento/merchdocs/_site"] on *.html...
+   Running ["ImageCheck", "HtmlCheck", "LinkCheck", "ScriptCheck",  "LinkChecker::DoubleSlashCheck"] on ["/Users/user/jfgalano/magento24/_site"] on *.html...
 
 
    Ran on 1747 files!

@@ -1,7 +1,7 @@
 ## Contribute to the Merchant Documentation
 
 Share your knowledge with the community by contributing to Magento Documentation!
-You can contribute by creating an issue or pull request (PR) on our [MerchDocs](https://github.com/magento/merchdocs) GitHub repository.
+You can contribute by creating an issue or pull request (PR) on our [MerchDocs](https://github.com/jfgalano/magento24) GitHub repository.
 
 We welcome all types of contributions; from minor typo fixes to new topics.
 
@@ -18,11 +18,11 @@ As you contribute PRs, you gain [Contribution Points](https://devdocs.magento.co
 
 ## Get started
 
-![Get started workflow](https://github.com/magento/merchdocs/wiki/images/merchdocs-fork.png)
+![Get started workflow](https://github.com/jfgalano/magento24/wiki/images/merchdocs-fork.png)
 
 1. Make sure you have a [GitHub account](https://github.com/signup/free).
 
-1. [Fork](https://help.github.com/articles/fork-a-repo/) the [MerchDocs repository](https://github.com/magento/merchdocs).
+1. [Fork](https://help.github.com/articles/fork-a-repo/) the [MerchDocs repository](https://github.com/jfgalano/magento24).
 
 1. Review the [MerchDocs guidelines](#contribute-documentation).
 
@@ -30,14 +30,14 @@ We also recommend adding [Two-Factor Authentication (2FA)](https://devdocs.magen
 
 ## Contribute documentation
 
-New to GitHub and open source contribution? We have easy ways to write and contribute without knowing how to code. Check the wiki starting with [Getting Started](https://github.com/magento/merchdocs/wiki).
+New to GitHub and open source contribution? We have easy ways to write and contribute without knowing how to code. Check the wiki starting with [Getting Started](https://github.com/jfgalano/magento24/wiki).
 
-You have different options for [writing content](https://github.com/magento/merchdocs/wiki/Writing-Content):
+You have different options for [writing content](https://github.com/jfgalano/magento24/wiki/Writing-Content):
 
-- [Write in GitHub](https://github.com/magento/merchdocs/wiki/Writing-Content#write-in-github): Edit and add files through your GitHub account in a web browser.
-- [Write like a Developer](https://github.com/magento/merchdocs/wiki/Writing-Content#write-like-a-developer): Edit and add files in a text editor or integrated developer environment (IDE) on your local computer.
+- [Write in GitHub](https://github.com/jfgalano/magento24/wiki/Writing-Content#write-in-github): Edit and add files through your GitHub account in a web browser.
+- [Write like a Developer](https://github.com/jfgalano/magento24/wiki/Writing-Content#write-like-a-developer): Edit and add files in a text editor or integrated developer environment (IDE) on your local computer.
 
-After writing content, [submit your work](https://github.com/magento/merchdocs/wiki/Branches-to-PRs#submit-a-pull-request) as a Pull Request (PR).
+After writing content, [submit your work](https://github.com/jfgalano/magento24/wiki/Branches-to-PRs#submit-a-pull-request) as a Pull Request (PR).
 
 **Tip!** If you are not sure where to start contributing, search for issues with the `help wanted` and `good first issue` labels. These are researched and ready to work!
 
@@ -54,7 +54,7 @@ Use the same branch as the base when you submit the PR. If you indicate in your 
 
 ## Create a pull request
 
-1. Create a pull request to `magento/merchdocs` from your fork.
+1. Create a pull request to `jfgalano/magento24` from your fork.
 
    In general, you should use `master` as the base branch when creating a PR. If your contribution is related to a release that is in progress, use a version-specific integration branch.
 
@@ -70,15 +70,15 @@ Use the same branch as the base when you submit the PR. If you indicate in your 
 
 ## Review changes locally
 
-_(Optional)_ To review your changes in HTML output, follow the instructions in the [README](https://github.com/magento/merchdocs/blob/master/README.md) to build the documentation site locally using Jekyll.
+_(Optional)_ To review your changes in HTML output, follow the instructions in the [README](https://github.com/jfgalano/magento24/blob/master/README.md) to build the documentation site locally using Jekyll.
 
 ## Report an issue and feedback
 
-If you have feedback or find a typo or errors in Magento MerchDocs, you can either submit contributions with a pull request (as described above) or you can report it by [creating an issue](https://github.com/magento/merchdocs/issues/new/choose) in the MerchDocs GitHub repository.
+If you have feedback or find a typo or errors in Magento MerchDocs, you can either submit contributions with a pull request (as described above) or you can report it by [creating an issue](https://github.com/jfgalano/magento24/issues/new/choose) in the MerchDocs GitHub repository.
 
 You must complete the issue template. We will close your issue if you fail to complete the template. Enter as much information as you can, including content corrections, steps to reproduce, command or code updates, or questions for clarifications.
 
-**Note:** Check the existing [issues](https://github.com/magento/merchdocs/issues) on GitHub to see if someone has already reported the issue.
+**Note:** Check the existing [issues](https://github.com/jfgalano/magento24/issues) on GitHub to see if someone has already reported the issue.
 
 ## Contact the Magento Docs Team
 

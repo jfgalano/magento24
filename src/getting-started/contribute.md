@@ -83,8 +83,8 @@ We recognize that our partners and customers have a great deal of knowledge from
 
 Our [GitHub wiki][5] provides detailed information about authoring content, our markdown syntax, and page navigation.
 
-[1]: https://github.com/magento/merchdocs
+[1]: https://github.com/jfgalano/magento24
 [2]: https://github.com/signup/free
-[3]: https://github.com/magento/merchdocs/wiki/Writing-Content#write-like-a-developer
+[3]: https://github.com/jfgalano/magento24/wiki/Writing-Content#write-like-a-developer
 [4]: https://opensource.adobe.com/cla.html
-[5]: https://github.com/magento/merchdocs/wiki/Writing-Content#writing-styles-and-markdown
+[5]: https://github.com/jfgalano/magento24/wiki/Writing-Content#writing-styles-and-markdown

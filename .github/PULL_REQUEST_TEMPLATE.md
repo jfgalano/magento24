@@ -41,5 +41,5 @@ If you are fixing a GitHub issue, note it using GitHub keyword format (https://h
 
 `master` is the default branch. Merged pull requests to `master` go live on the site automatically. Any requested changes to content on the `master` branch must be related to the released codebase. Any content related to future releases goes in an appropriate integration branch. Typically, an integration branch for future release has format 2.x.x-develop. Example: 2.4.3-develop.
 
-See Contribution guidelines (https://github.com/magento/merchdocs/blob/master/.github/CONTRIBUTING.md) and wiki (https://github.com/magento/merchdocs/wiki) for more information.
+See Contribution guidelines (https://github.com/jfgalano/magento24/blob/master/.github/CONTRIBUTING.md) and wiki (https://github.com/jfgalano/magento24/wiki) for more information.
 -->

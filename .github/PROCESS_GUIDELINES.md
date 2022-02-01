@@ -16,7 +16,7 @@ In general, our documentation crew (Adobe staff members) use similar [guidelines
 
    - Monitor for content specific for Magento Open Source, Commerce, and/or B2B
 
-   - Assign [labels](https://github.com/magento/merchdocs/labels) as appropriate
+   - Assign [labels](https://github.com/jfgalano/magento24/labels) as appropriate
 
 ## Labels
 
@@ -32,7 +32,7 @@ Here is a brief summary of the most important labels:
 
 We also use version labels when appropriate. Doc team members will add or remove labels when appropriate.
 
-See https://github.com/magento/merchdocs/labels for all labels and their descriptions.
+See https://github.com/jfgalano/magento24/labels for all labels and their descriptions.
 
 ## Testing
 
@@ -46,11 +46,11 @@ Every pull request to the `master` or `2.3-production` branch must pass tests be
 
 We use several projects to help organize issues and pull requests. Doc team members can add existing issues and pull requests to these projects as needed.
 
-https://github.com/magento/merchdocs/projects
+https://github.com/jfgalano/magento24/projects
 
 ## Style
 
-We prefer Markdown over HTML (in most cases). You can use [kramdown](https://kramdown.gettalong.org/syntax.html) syntax for more markup features and [Liquid](https://jekyllrb.com/docs/liquid/) for in-topic scripting. For specific Markdown formats used in this repository, see [Writing styles and markdown](https://github.com/magento/merchdocs/wiki/Writing-Content#writing-styles-and-markdown).
+We prefer Markdown over HTML (in most cases). You can use [kramdown](https://kramdown.gettalong.org/syntax.html) syntax for more markup features and [Liquid](https://jekyllrb.com/docs/liquid/) for in-topic scripting. For specific Markdown formats used in this repository, see [Writing styles and markdown](https://github.com/jfgalano/magento24/wiki/Writing-Content#writing-styles-and-markdown).
 
 ## Small changes workflow
 
