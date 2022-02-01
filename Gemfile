@@ -2,7 +2,7 @@
 
 source 'https://rubygems.org'
 
-gem 'devdocs', git: 'https://github.com/jfgalano/devdocs.git'
+gem 'devdocs', git: 'https://github.com/jfgalano/devdocs.git', :branch => "master"
 
 gem 'jekyll'
 gem 'whatsup_github'
